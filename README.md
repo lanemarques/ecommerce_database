@@ -9,10 +9,10 @@ O objetivo é representar clientes, pedidos, produtos, fornecedores, vendedores,
 
 - BD-ecommerce.sql
    - Contém a criação do banco de dados e das tabelas
--
-- inserts_consultas.sql
+   
+- Queries_and_data_insertion.sql
    - Contém inserção de dados e consultas SQL e refinamento 
-   -
+   
 🗃️ Modelagem
      O banco de dados inclui as seguintes entidades:
   - Clientes (PF e PJ)
